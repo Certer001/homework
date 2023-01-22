@@ -1,0 +1,15 @@
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\bin\Debug\net6.0\dz_chislenyeMetody.exe
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\bin\Debug\net6.0\dz_chislenyeMetody.deps.json
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\bin\Debug\net6.0\dz_chislenyeMetody.runtimeconfig.json
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\bin\Debug\net6.0\dz_chislenyeMetody.dll
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\bin\Debug\net6.0\dz_chislenyeMetody.pdb
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.csproj.AssemblyReference.cache
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.AssemblyInfoInputs.cache
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.AssemblyInfo.cs
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.csproj.CoreCompileInputs.cache
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.dll
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\refint\dz_chislenyeMetody.dll
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.pdb
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\dz_chislenyeMetody.genruntimeconfig.cache
+C:\Users\Vovan\Desktop\создаем игру\our_game\dz_chislenyeMetody\dz_chislenyeMetody\obj\Debug\net6.0\ref\dz_chislenyeMetody.dll
