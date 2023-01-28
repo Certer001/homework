@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vovan\\Desktop\\создаем игру\\our_game\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj": {}
+    "C:\\Users\\Vovan\\Desktop\\дз c#\\homework\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vovan\\Desktop\\создаем игру\\our_game\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj": {
+    "C:\\Users\\Vovan\\Desktop\\дз c#\\homework\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vovan\\Desktop\\создаем игру\\our_game\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj",
+        "projectUniqueName": "C:\\Users\\Vovan\\Desktop\\дз c#\\homework\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj",
         "projectName": "dz_chislenyeMetody",
-        "projectPath": "C:\\Users\\Vovan\\Desktop\\создаем игру\\our_game\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj",
+        "projectPath": "C:\\Users\\Vovan\\Desktop\\дз c#\\homework\\dz_chislenyeMetody\\dz_chislenyeMetody\\dz_chislenyeMetody.csproj",
         "packagesPath": "C:\\Users\\Vovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vovan\\Desktop\\создаем игру\\our_game\\dz_chislenyeMetody\\dz_chislenyeMetody\\obj\\",
+        "outputPath": "C:\\Users\\Vovan\\Desktop\\дз c#\\homework\\dz_chislenyeMetody\\dz_chislenyeMetody\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
