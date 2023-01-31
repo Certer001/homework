@@ -17,7 +17,7 @@ namespace ConsoleApp1
                     arr[i] = 0;
                 }
 
-                arr[i] *= arr[i];
+                arr[i] *= 10;
             }
 
             Console.WriteLine("\nПреобразованный массив:\n");
