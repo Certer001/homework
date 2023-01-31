@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
@@ -10,48 +6,28 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int a = Convert.ToInt32(Console.ReadLine());
-            int b = Convert.ToInt32(Console.ReadLine());
-            int c = Convert.ToInt32(Console.ReadLine());
+            int[] arr = new int[10];
 
-        repit:
-
-            int d = Convert.ToInt32(Console.ReadLine());
-
-            double result = 0;
-
-            if (a < 0)
+            for (int i = 0; i < arr.Length; i++)
             {
-                while (true)
+                arr[i] = Convert.ToInt32(Console.ReadLine());
+
+                if (arr[i] < 10)
                 {
-                    if (d == 0)
-                    {
-                        Console.WriteLine("попытка деления на нуль");
-                        Console.WriteLine("повтори ещё раз");
-                        goto repit;
-                    }
-                    else
-                    {
-                        result = (a + b + c) / d;
-                        break;
-                    }
+                    arr[i] = 0;
                 }
 
-            }
-            else if (a == 0)
-            {
-                result = 100 + b * c - d;
-            }
-            else if (a > 0)
-            {
-                result = a * b * c * d;
-            }
-            else
-            {
-                result = a * b;
+                arr[i] *= arr[i];
             }
 
-            Console.WriteLine(result);
+            Console.WriteLine("\nПреобразованный массив:\n");
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr[i]);
+            }
+
+            Console.WriteLine("\n");
 
         }
     }
