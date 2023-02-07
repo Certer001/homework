@@ -6,29 +6,28 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[10];
+            double[] arr = { 1.1, 1.3, 2.4, 2.6, 2.9 };
+
+            double maxNumber = 0;
+            double minNumber = arr[0];
 
             for (int i = 0; i < arr.Length; i++)
             {
-                arr[i] = Convert.ToInt32(Console.ReadLine());
-
-                if (arr[i] < 10)
+                if (arr[i] > maxNumber)
                 {
-                    arr[i] = 0;
+                    maxNumber = arr[i];
                 }
 
-                arr[i] *= 10;
+                if (arr[i] < minNumber)
+                {
+                    minNumber = arr[i];
+                }
             }
 
-            Console.WriteLine("\nПреобразованный массив:\n");
+            Console.WriteLine("Максимальное число: " + maxNumber);
+            Console.WriteLine("Минимальное число: " + minNumber);
 
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.WriteLine(arr[i]);
-            }
-
-            Console.WriteLine("\n");
-
+            Console.ReadLine();
         }
     }
 }
